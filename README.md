@@ -35,13 +35,6 @@ Soy **Mobile Engineer Sr.** con más de una década de experiencia diseñando, e
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emalober&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
 
 ### 📫 ¿Cómo contactarme?
 
